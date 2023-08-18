@@ -1,0 +1,2 @@
+# AssignmentRD
+This is a web application built using Spring Boot, Java, MySQL, and React that offers a comprehensive solution for verifying identity documents and conducting image comparisons. It leverages Microsoft Azure's Form Recognizer service to validate entered data against uploaded documents, highlighting any discrepancies. Additionally, it utilizes Azure's Face API to assess the probability of correspondence between uploaded ID cards/passports and portrait photos. Experience a streamlined, secure, and accurate verification process with this web app.
