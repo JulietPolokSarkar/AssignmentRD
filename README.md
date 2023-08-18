@@ -14,6 +14,21 @@ React: A powerful JavaScript library for building dynamic and interactive user i
 Microsoft Azure Form Recognizer: A cloud-based service for extracting structured data from documents.
 Microsoft Azure Face API: A service that detects and analyzes faces in images, enabling facial recognition and verification.
 
+# Getting Started
+1. Clone the repository
+2. Backend Setup:
+Create a MySQL database and update the database configuration in the application.properties file.
+Run the Spring Boot application using your preferred IDE
+3. Frontend Setup:
+Navigate to the frontend directory
+Install dependencies and start the React app
+4. Replace the database username, password, Azure keys, and endpoints with your own.
+5. Access the Application:
+Open your browser and navigate to http://localhost:3000 to use the App.
+
+
+
+
 # Usage
 Upload Documents: Upload identity documents such as ID cards or passports using the provided form.
 
