@@ -22,7 +22,7 @@ Run the Spring Boot application using your preferred IDE
 3. Frontend Setup:
 Navigate to the frontend directory
 Install dependencies and start the React app
-4. Replace the database username, password, Azure keys, and endpoints with your own.
+4. Replace the Azure form recognizer and face API keys and endpoints with your own.
 5. Access the Application:
 Open your browser and navigate to http://localhost:3000 to use the App.
 
